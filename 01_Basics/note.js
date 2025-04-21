@@ -16,5 +16,8 @@ for string "" required, but for int,float not required
 dont use var, use let and const is not editable
 "use strict" - engine will consider all the code in new standard version of js
 ECMA - standard community
-datattypes in js => number - 2>53, bigint, String - "", boolean-T/F, null - standalone value, undefined, symbol - unique  
+datattypes in js => number - 2>53, bigint, String - "", boolean-T/F, null - standalone value, undefined, symbol - unique   
+while converting a string and undefined to number -> Nan will be output
+for boolean true ->1 and false -> 0 and null -> 0
+
 */
