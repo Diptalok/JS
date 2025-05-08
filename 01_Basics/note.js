@@ -24,6 +24,26 @@ if i am adding string with number , then the first one will always be preferred
 + sign is used to convert any value to number, if it cant convert Nan value will come
 strict equality - ===, loose equality - ==,>,>=,<=
 // == - checks only value, === - checks value and datatype
+primitive datatype - immutable,call the data by value    non primitive - mutable,call the data by reference
+// immutable - cannot be changed, mutable - can be changed
+// immutable - string, number, boolean, null, undefined, symbol, BigInt
+// mutable - object, array, function
+// object - key value pair, array - ordered list of values, function - block of code
+javascript is statically typed language or dynamically typed language
+// statically typed - type of variable is known at compile time, dynamically typed - type of variable is known at runtime
+// javascript is a prototype based language
+// prototype - a template or blueprint for creating objects
+// prototype chain - a chain of objects that are linked together
+// prototype inheritance - a way to create new objects based on existing objects
+// prototype based language - a language that uses prototypes to create objects
+// prototype based inheritance - a way to create new objects based on existing objects using prototypes
+// prototype based programming - a programming paradigm that uses prototypes to create objects
+// prototype based programming language - a programming language that uses prototypes to create objects
+datatype of null is object
+// null is a primitive value, but its type is object
+// typeof non primitive value is object
+// typeof primitive datatype is object / or functionObject
+// typeof function is objectFunction
 
 
 */
