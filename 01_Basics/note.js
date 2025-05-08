@@ -19,5 +19,11 @@ ECMA - standard community
 datattypes in js => number - 2>53, bigint, String - "", boolean-T/F, null - standalone value, undefined, symbol - unique   
 while converting a string and undefined to number -> Nan will be output
 for boolean true ->1 and false -> 0 and null -> 0
+node foldername/file name.js - to execute a file
+if i am adding string with number , then the first one will always be preferred
++ sign is used to convert any value to number, if it cant convert Nan value will come
+strict equality - ===, loose equality - ==,>,>=,<=
+// == - checks only value, === - checks value and datatype
+
 
 */
