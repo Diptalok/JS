@@ -44,6 +44,11 @@ datatype of null is object
 // typeof non primitive value is object
 // typeof primitive datatype is object / or functionObject
 // typeof function is objectFunction
+heap memory - dynamic memory allocation, stack memory - static memory allocation
+// heap memory - used for dynamic memory allocation, stack memory - used for static memory allocation
+// heap memory - used to store primitive datatypes
+// stack memory - used to store non primitive datatypes
+all references are created in stack memory
 
 
 */
